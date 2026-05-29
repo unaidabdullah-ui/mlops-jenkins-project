@@ -1,7 +1,0 @@
-venv/
-data/
-*.csv
-*.pkl
-mlruns/
-__pycache__/
-.env
